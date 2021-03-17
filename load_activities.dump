@@ -1,0 +1,9 @@
+INSERT INTO activities (name) VALUES ('jardinage'),
+('elevage animalier'),
+('agriculture'),
+('charpente'),
+('apiculture'),
+('mecanique auto'),
+('mecanique agricole'),
+('travaux piscicoles'),
+('cuisine')

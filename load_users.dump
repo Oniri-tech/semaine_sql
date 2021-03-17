@@ -1,0 +1,11 @@
+INSERT INTO user (mail, password, name) VALUES ('k.figueroa@hotmail.fr', 'azertyuiop', 'Kevin Figueroa'),
+('gouda69@gmail.com', 'aqwzsxedcrfvtgbyhn', 'Jean Jean'),
+('zobithefly87@gmail.com', 'poiuytrezaqsdfghjklm', 'Pedrito Carlito'),
+('bananou45@hotmail.com', 'qdslmkfjqsdfkjqsgoijg', 'Carla Bruni'),
+('i8barbecues@orange.fr', 'hereticKiller1412', 'Jeanne d\'Arc'),
+('silenceisgold@pyongyang.py', 'nothingIsSecret', 'Kim Jong Un'),
+('Vodka@Eristoff.beurg', 'oneMoreBarman', 'Valdimir Poutine'),
+('silvermine@bang.ch', 'NoPasaran', 'Salvadore Allende'),
+('eternalfirstlady@damn.us', 'password', 'Hillary Clinton'),
+('imoffended@cry.us', 'blueHairForTheWin', 'Justine Sociale'),
+('saint@bodega.us', 'EvilAreEvil666', 'Apsou Dakaei')

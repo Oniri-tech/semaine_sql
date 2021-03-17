@@ -1,0 +1,3 @@
+INSERT INTO host VALUES (4, 'Un village avec des gens riches', 'ferme', 'agriculture biologique', 5),
+(7, 'la glorieuse mere patrie', 'goulag', 'minage', 300000),
+(10, '20 rue des antifas', 'ferme comunautaire', 'apiculture et agriculture biologique', 10)
